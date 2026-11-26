@@ -1,0 +1,18 @@
+body {
+    font-size: 24px;
+}
+.blue {
+    color: blue;
+}
+.red {
+    color: rgb(243, 8, 8);
+}
+.green {
+    color: rgb(13, 182, 55);
+}
+.italic {
+    font-style: italic;
+}
+.bold {
+    font-weight: bold;
+}

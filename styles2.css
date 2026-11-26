@@ -1,0 +1,15 @@
+body {
+    font-size: 24px;
+}
+.bold { font-weight: bold;}
+.green { color: green;}
+.red { color: red;}
+.blue { color: blue;}
+.orange { color: orange;}
+.xxsmall { font-size: 10px;}
+.xsmall { font-size: 16px;}
+.small { font-size: 20px;}
+.medium { font-size: 24px;}
+.large { font-size: 30px;}
+.xlarge { font-size: 40px;}
+.xxlarge { font-size: 50px;}
